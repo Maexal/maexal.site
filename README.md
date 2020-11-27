@@ -1,4 +1,4 @@
-# maexal.site
+# [maexal.site][link:maexal-site]
 
 ###### [![Netlify status][img:netlify-status]][link:netlify-status] [![Uptime Robot status][img:uptimerobot-status]][link:uptimerobot-status] [![Uptime Robot ratio (30 days)][img:uptimerobot-ratio]][link:uptimerobot-status]
 
@@ -10,11 +10,11 @@
 
 A repository including everything needed to redirect a [Netlify][link:netlify] website, which is [maexal.site][link:maexal-site], to the actual [maexal.dev][link:maexal] website.
 
-[img:netlify-status]: https://img.shields.io/netlify/5f4c9a09-da82-4eb7-b6dc-fa33919191f9
+[img:netlify-status]: https://img.shields.io/netlify/e24e0318-8630-4830-ba99-388e1e77f400
 [link:netlify-status]: https://app.netlify.com/sites/maexal-site/deploys
-[img:uptimerobot-status]: https://img.shields.io/uptimerobot/status/m786503777-022c39e23c10b0cd6e805943
-[img:uptimerobot-ratio]: https://img.shields.io/uptimerobot/ratio/m786503777-022c39e23c10b0cd6e805943
-[link:uptimerobot-status]: https://status.maexal.dev/786503777
+[img:uptimerobot-status]: https://img.shields.io/uptimerobot/status/m786503991-bbc948d1d6a12639829b10a6
+[img:uptimerobot-ratio]: https://img.shields.io/uptimerobot/ratio/m786503991-bbc948d1d6a12639829b10a6
+[link:uptimerobot-status]: https://status.maexal.dev/786503991
 [img:github-issues]: https://img.shields.io/github/issues/maexal/maexal.site
 [link:github-issues]: https://github.com/Maexal/maexal.site/issues
 [img:github-prs]: https://img.shields.io/github/issues-pr/maexal/maexal.site
