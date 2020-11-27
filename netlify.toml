@@ -1,0 +1,5 @@
+[[redirects]]
+force = true
+from = "/*"
+status = 301
+to = "https://maexal.dev/"
